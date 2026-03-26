@@ -12,7 +12,7 @@
 
 Fikcyjny sklep e-commerce z **2000 SKU** zbudowany w celach edukacyjnych i portfolio. Projekt pokazuje jak zbudować kompletny ekosystem analityczny bez znajomości programowania — od surowych danych po inteligentnego asystenta AI.
 
-**Demo aplikacji AI:** [sklep-demo-ai.github.io](https://twoja-nazwa.github.io/sklep-demo-ai)
+**Demo aplikacji AI:** [sklep-demo-ai.github.io](https://hubertkuzma.github.io/sklep-demo-ai/)
 
 ---
 
